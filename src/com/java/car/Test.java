@@ -43,4 +43,8 @@ public class Test {
 
         // I will using the thread join, the program will wait until the thread1 is terminated.
     }
+
+    public static void question4() {
+        // I have no idea to solve it now
+    }
 }
